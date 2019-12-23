@@ -1,0 +1,61 @@
+[{
+    "id": 1,
+    "image": "./assets/images/bestman.jpg",
+    "clicked": false
+},
+{
+    "id": 2,
+    "image": "./assets/images/dotherightthing.jpg",
+    "clicked": false
+},
+{
+    "id": 3,
+    "image": "./assets/images/eves-bayou-film.jpg",
+    "clicked": false
+},
+{
+    "id": 4,
+    "image": "./assets/images/friday.jpg",
+    "clicked": false
+},
+{
+    "id": 5,
+    "image": "./assets/images/greatdebaters.jpg",
+    "clicked": false
+},
+{
+    "id": 6,
+    "image": "./assets/images/juice.jpg",
+    "clicked": false
+},
+{
+    "id": 7,
+    "image": "./assets/images/loveandbball.jpg",
+    "clicked": false
+},
+{
+    "id": 8,
+    "image": "./assets/images/lovejones.jpg",
+    "clicked": false
+},
+{
+    "id": 9,
+    "image": "./assets/images/setitoff.jpg",
+    "clicked": false
+},
+{
+    "id": 10,
+    "image": "./assets/images/soulfood.jpg",
+    "clicked": false
+},
+{
+    "id": 11,
+    "image": "./assets/images/Tuskegee-airmen.jpg",
+    "clicked": false
+},
+{
+    "id": 12,
+    "image": "./assets/images/waiting-to-exhale.jpg",
+    "clicked": false
+}
+]
